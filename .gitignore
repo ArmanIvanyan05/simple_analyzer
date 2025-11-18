@@ -1,0 +1,145 @@
+# Output and runtime files
+data.txt
+nohup.out
+program.pid
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Bytecode cache
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Package builds
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage / testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+nosetests.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# SQLite database
+db.sqlite3
+db.sqlite3-journal
+
+# Flask instance
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pyenv
+# .python-version
+
+# PIPENV / Poetry / PDM
+# Pipfile.lock
+# poetry.lock
+.pdm-python
+.pdm-build/
+
+# PEP 582
+__pypackages__/
+
+# Cython debug symbols
+cython_debug/
+
+# Ruff
+.ruff_cache/
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Marimo
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# Abstra
+.abstra/
+
+# Cursor editor
+.cursorignore
+.cursorindexingignore
+
+# Logs
+*.log
+local_settings.py
+
+# Temporary editor files
+*.manifest
+*.spec
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# MkDocs
+/site
+
+# Distribution metadata
+.Python
+.installed.cfg
+
+# Django
+*.mo
+*.pot
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Visual Studio Code (optional)
+# .vscode/
+
+# JetBrains (optional)
+#.idea/
